@@ -1,7 +1,6 @@
 {
     "version" : 2,
-    "name" : "simple.demo",
-    "build" :[
+    "builds" :[
         {
             "src":"./index.js",
             "use": "@vercel/node"
